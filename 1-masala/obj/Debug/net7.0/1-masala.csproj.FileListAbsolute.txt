@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C# darslari\1-masala\obj\Debug\net7.0\1-masala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# darslari\1-masala\obj\Debug\net7.0\1-masala.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# darslari\1-masala\obj\Debug\net7.0\1-masala.AssemblyInfo.cs
+C:\Users\user\Desktop\C# darslari\1-masala\obj\Debug\net7.0\1-masala.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# darslari\1-masala\bin\Debug\net7.0\1-masala.exe
+C:\Users\user\Desktop\C# darslari\1-masala\bin\Debug\net7.0\1-masala.deps.json
+C:\Users\user\Desktop\C# darslari\1-masala\bin\Debug\net7.0\1-masala.runtimeconfig.json
+C:\Users\user\Desktop\C# darslari\1-masala\bin\Debug\net7.0\1-masala.dll
+C:\Users\user\Desktop\C# darslari\1-masala\bin\Debug\net7.0\1-masala.pdb
+C:\Users\user\Desktop\C# darslari\1-masala\obj\Debug\net7.0\1-masala.dll
+C:\Users\user\Desktop\C# darslari\1-masala\obj\Debug\net7.0\refint\1-masala.dll
+C:\Users\user\Desktop\C# darslari\1-masala\obj\Debug\net7.0\1-masala.pdb
+C:\Users\user\Desktop\C# darslari\1-masala\obj\Debug\net7.0\1-masala.genruntimeconfig.cache
+C:\Users\user\Desktop\C# darslari\1-masala\obj\Debug\net7.0\ref\1-masala.dll
